@@ -1,1 +1,3 @@
-#!/bin/bash                                                                                                                        ls -a -l ./ .. / ~/
+#!/bin/bash
+ls -a -l ./ .. / ~/
+
