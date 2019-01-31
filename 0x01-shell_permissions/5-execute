@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos +x hello
+chmod +x hello
