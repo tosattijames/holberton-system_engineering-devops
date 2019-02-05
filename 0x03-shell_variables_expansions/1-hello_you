@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 export PATH=$PATH:'/action'
+=======
+echo hello $USER
+>>>>>>> dc83478db70c7dc54a094a1b5fd70da30a3167ba
